@@ -2,6 +2,20 @@
 
 本项目实现了一个可运行的 MVP：通过摄像头采集手部康复动作数据，上传至后端进行分析，并在网页端展示每日报告和趋势建议。
 
+## 项目预览图
+
+### 1) 系统架构
+
+![系统架构图](docs/images/architecture.svg)
+
+### 2) 训练流程
+
+![训练流程图](docs/images/training-flow.svg)
+
+### 3) 仪表盘示意
+
+![仪表盘示意图](docs/images/dashboard-preview.svg)
+
 ## 项目结构
 
 - `frontend/`：React + Vite + TypeScript 网页端

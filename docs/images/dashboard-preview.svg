@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="仪表盘示意图">
+  <rect width="1200" height="760" fill="#f1f5f9"/>
+  <rect x="40" y="30" width="1120" height="110" rx="18" fill="#0f766e"/>
+  <text x="70" y="88" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">智慧养老康复平台 - 患者仪表盘示意</text>
+  <text x="70" y="122" font-family="Arial, sans-serif" font-size="22" fill="#ccfbf1">今日计划：每日 2 次，支持左右手分练</text>
+
+  <rect x="40" y="170" width="540" height="260" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="70" y="215" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#0f172a">摄像头康复训练</text>
+  <rect x="70" y="235" width="480" height="160" rx="12" fill="#0f172a"/>
+  <text x="95" y="330" font-family="Arial, sans-serif" font-size="22" fill="#f8fafc">视频区 + 手部关键点叠加</text>
+  <rect x="70" y="400" width="130" height="34" rx="17" fill="#16a34a"/>
+  <text x="94" y="423" font-family="Arial, sans-serif" font-size="18" fill="#ffffff">开始训练</text>
+  <rect x="212" y="400" width="130" height="34" rx="17" fill="#dc2626"/>
+  <text x="236" y="423" font-family="Arial, sans-serif" font-size="18" fill="#ffffff">结束训练</text>
+
+  <rect x="620" y="170" width="540" height="260" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="650" y="215" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#0f172a">每日分析（左右手）</text>
+  <rect x="650" y="238" width="240" height="175" rx="12" fill="#f8fafc"/>
+  <rect x="920" y="238" width="210" height="175" rx="12" fill="#f8fafc"/>
+  <text x="670" y="272" font-family="Arial, sans-serif" font-size="20" fill="#0f172a">左手：评分/握力/稳定度</text>
+  <text x="940" y="272" font-family="Arial, sans-serif" font-size="20" fill="#0f172a">右手：评分对比</text>
+  <text x="670" y="312" font-family="Arial, sans-serif" font-size="18" fill="#475569">差值监控：左 - 右</text>
+  <text x="670" y="348" font-family="Arial, sans-serif" font-size="18" fill="#475569">综合建议：维持训练节奏</text>
+
+  <rect x="40" y="460" width="720" height="260" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="70" y="505" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#0f172a">训练任务日历（近 14 天）</text>
+  <text x="70" y="540" font-family="Arial, sans-serif" font-size="18" fill="#475569">可点击查看当天多次训练明细、关键帧回看与摘要导出</text>
+  <rect x="70" y="560" width="650" height="130" rx="12" fill="#f8fafc"/>
+  <text x="95" y="634" font-family="Arial, sans-serif" font-size="20" fill="#475569">日历卡片区域（已完成 / 中断 / 未完成）</text>
+
+  <rect x="800" y="460" width="360" height="260" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="830" y="505" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#0f172a">异常提醒</text>
+  <text x="830" y="545" font-family="Arial, sans-serif" font-size="18" fill="#475569">- 连续未完成提醒</text>
+  <text x="830" y="578" font-family="Arial, sans-serif" font-size="18" fill="#475569">- 中断偏多提醒</text>
+  <text x="830" y="611" font-family="Arial, sans-serif" font-size="18" fill="#475569">- 左右手差值扩大提醒</text>
+</svg>
