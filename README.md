@@ -85,3 +85,5 @@ git checkout 260413-feat-smart-elderly-rehab-web
 
 - 当前版本重点是网页和代码架构，分析逻辑采用规则引擎（可扩展为模型推理）。
 - 摄像头指标属于动作趋势评估，不等同医疗器械级绝对握力值。
+- 贡献方式请查看 `CONTRIBUTING.md`。
+- 开源协议为 MIT，详见 `LICENSE`。
