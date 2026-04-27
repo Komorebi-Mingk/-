@@ -40,6 +40,31 @@ npm install
 npm run dev -- --host 0.0.0.0 --port 5173
 ```
 
+## 下载与测试
+
+### 从 GitHub 下载
+
+```bash
+git clone https://github.com/Komorebi-Mingk/-.git
+cd -
+git checkout 260413-feat-smart-elderly-rehab-web
+```
+
+### 本地联调测试
+
+1. 按“快速启动”分别启动后端和前端。
+2. 打开 `http://localhost:5173`。
+3. 点击“进入患者训练端”后开始一次训练。
+4. 结束训练后查看：
+   - 每日分析（左手/右手）
+   - 日历明细与关键帧回看
+   - 异常提醒
+
+### 在线预览（当前开发环境）
+
+- 前端预览：`https://5173-2436f0aa0f24941c.monkeycode-ai.online`
+- 后端健康检查：`https://8000-2436f0aa0f24941c.monkeycode-ai.online/api/health`
+
 ## API 概览
 
 - `POST /api/auth/login`
